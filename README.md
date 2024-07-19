@@ -260,11 +260,16 @@ Run the script
 If you use this code in your experiments please cite this work by using the following bibtex entry:
 
 ```
-@inproceedings{tobeUpdated,
-  title={Camera Model Identification Using Audio and Visual Content from Videos},
-  author={Tsingalis, Ioannis and Korgialas, Christos and Kotropoulos, Constantine},
-  booktitle={IARIA Annual Congress on Frontiers in Science, Technology, Services, and Applications},
-  pages={tobeUpdated},
-  year={2024}
+@inproceedings{TsingalisIARIA2024,
+  author    = {Ioannis Tsingalis and Christos Korgialas and Constantine Kotropoulos},
+  title     = {Camera Model Identification Using Audio and Visual Content from Videos},
+  booktitle = {The 2024 IARIA Annual Congress on Frontiers in Science, Technology, Services, and Applications},
+  year      = {2024},
+  pages     = {146--151},
+  publisher = {ThinkMind IARIA Congress 2024},
+  address   = {Porto, Portugal},
+  month     = {June 30},
+  isbn      = {978-1-68558-180-0},
+  copyright = {Copyright (c) IARIA 2024}
 }
 ```
